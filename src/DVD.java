@@ -43,7 +43,7 @@ public class DVD {
 	}
 
 	public String toString() {
-		return this.title + "/" + this.rating + "/" + this.runningTime;
+		return this.title + "," + this.rating + "," + this.runningTime;
 	}
 	
 	
